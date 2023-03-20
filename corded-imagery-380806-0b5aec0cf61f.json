@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corded-imagery-380806",
+  "private_key_id": "0b5aec0cf61f5a1d125a47dfbe6887dddf78cacf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXO0jGttxC+ZI1\n1rQcfXX6hmUkuQasJhjMW8isWTKHPr0Mfaz/H81+5d7+mXgrrFYBKC/CU6jnrafx\noe4b03WwWTxB/wy6x7d6aYSPcwDLjxS+rvSARgZKgREpZUUeTtzImcdD7jLI+YKF\n2mjCoUKsUix8mxV9PO2LHnsp9Arvqx7BscLEA6Slsad07Sje/+ZhWSoT+7RvKINl\n2l1Qw1mHnyoAWuz8xkKSNz1Ind7Njz/mDZv9Bt0/HRKtXIMLYmnTNhFQi1W0nW2p\nxnCbfp9lNWPaOSby4VKAOVo1V4JA8s9vwvOgbEsyZISh71YGWes3tEPAR0QgfP0Y\n3KeYVWoBAgMBAAECggEABr5phVknnOdub+lrYdqZmNVlMNECm2u0th4lvslxDmgm\nStByXE2GEbq6IxJD9DSLPsd9Yzyj0u0VqJcYe5MU+O/BZK6HVQi09Ht+/8+mqf/2\nbJ6+BWKJZQQ55/qBEQGuHmI72NyuKfR1/FI8snDaWfPjXsWV7mwYeyGeGCLKIgYU\n7vMJFX6sQNMKrVzbcM9JVzRzev0g4rTKF+a/Bup0ocvn5cHNvJQA2rgFwGNMu+if\nj+ryYppWFciVqraA7D5dF2FStdkCiT/WASJLfIhXUpnYqwcqEaX5tm81EGY5dQiw\n1DGHHEtmdaszXLI80A9cdBHUu0UARjDHjF2mg7slEQKBgQD6fsz2VjrEwp4MWuJZ\nRO91FCGqOB2dLuB8Ro/8t2qfaw7+WaVKuL7MVKEwFT5jmIVNiLHhntqP2BrHa+Ov\nelt9sTC6qEAd5TefolVZKWNoBLIse17w0I0IUk6RBK+TGh1uj4KBGT7VUg4dGI6f\n1gGOx/l3gzBuO5PMIQ+IgStpQwKBgQDb9hom/CnC+zyau+WJfUEuK0Pbry7kLjYF\ncw2sR9U5g3L9s7wiZkQTb6lOHORxA90h2jZQAL2lvjc4waecalsIEVq2pEtCxXIj\nUSmdDfxFeMGkMtqp/yUKesd88TtmeNi6QTLvGtWIPT8FCgRcJDgnyMCi+9G2iIZ2\n0hHxFfW5awKBgQCrlggYBWEkPpu8otTBiXLto+ibjOzcKqwi9MLUvV8P7GnM2ONc\nl8g6dw4ivaqK1oMZZTVT81iLh+BwEftYzFu3cZSLh4zD7at4cd48wRkSu4TA65FR\nK8ovlRG0TJ1oCk922F7wx7Y+sYJxc8zet91BTMIZl4epOq42+b6GJtTxuQKBgDl/\nJCjqo1P3bkkYMpD079PMtWk4aq50seRMxdcx07e795P/pn7rcoIOHxhvDvvHwcb2\njlntR6WKik7IuDJ3zqHWP3sciRvEFujKb3FBVZ8nSJ7OOEBVlG4f2AN930QS9LwD\nDPhZcFWzhMShcLBRO2iS3l/8KT5og5WNpej6D4hPAoGBAJ0V+wJIzHfyBxE3EoT2\n5SoDTL+VIDqDovpFCIB3yEqjKonUOrIrBtVwpHzYcU1OROXNhrggHMajQlR1p8N1\nZmmET2r+O+g//Hfge1plscaIF60sed0f26ws0uvJ0p8KQeO15zW0h0fuv3WDklyA\nshqo+rmeQNxfVSHfsyBcyBVs\n-----END PRIVATE KEY-----\n",
+  "client_email": "flask-app@corded-imagery-380806.iam.gserviceaccount.com",
+  "client_id": "113863222579040083061",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flask-app%40corded-imagery-380806.iam.gserviceaccount.com"
+}
